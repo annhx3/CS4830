@@ -1,0 +1,5 @@
+$background: desaturate(#152,50%);
+$text-color: complement($background);
+$highlighted-text-color: darken($text-color, 30%);
+
+$width-box: 200px;

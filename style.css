@@ -1,0 +1,24 @@
+body {
+  background: #369;
+  text-align: center;
+  font-family: Futura, "Trebuchet MS", sans-serif; }
+  body > h1 {
+    font-size: 3em;
+    color: #eee;
+    margin: 25px 0 0 25px; }
+
+.entry {
+  background: white;
+  margin: 25px;
+  padding: 37.5px;
+  border: 2pt dotted black; }
+  .entry h1 {
+    font-size: 1.2em;
+    margin: 0px; }
+  .entry .date {
+    font-size: 0.3em;
+    color: #369; }
+  .entry a {
+    color: #369; }
+
+/*# sourceMappingURL=style.css.map */

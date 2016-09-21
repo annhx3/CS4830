@@ -1,0 +1,130 @@
+div {
+  height: 100px;
+  width: 255px;
+  border: 1px solid black; }
+
+.color {
+  background: #369; }
+
+.red, .blue, .green {
+  float: left; }
+
+.red {
+  background: red;
+  width: 51px; }
+
+.blue {
+  background: blue;
+  width: 153px; }
+
+.green {
+  background: green;
+  width: 102px; }
+
+/*
+//@import "_reset.scss";
+@import "bourbon/bourbon.scss";
+
+//definings
+@import "_variables.scss";
+@import "_mixins.scss";
+
+// Global styles
+@import "_globals.scss";
+
+//Page specifics
+@import "pages/_about_us.scss";
+
+body {
+	@include linear-gradient(to top, red, orange);
+	font-family: $lucida-grande;
+}*/
+/* %bar {
+	height: 14px;
+	font-size: 10px;
+	> div {
+		float: left;
+		clear: none;
+	}
+}
+
+.menu {
+	@extend %bar;
+	background: #345;
+}
+
+.nav {
+	@extend %bar;
+}
+
+*/
+/*	border-radius: $radius;
+	border-top-right-radius: $radius * 2;
+	border-bottom-left-radius: $radius* 2;
+	a {
+	color: $color;
+	}
+}
+
+@mixin green_links {
+	a{
+		color: green;
+		&:hover {
+			color: blue;
+		}
+	}
+}
+
+.box{
+	@include roundy(4px, blue);
+}
+
+.button {
+	@include roundy(2px, green);
+	background: #345;
+}
+
+body {
+	background: white;
+}
+
+.blog {
+	> h1 {
+		color: red;
+		border: 1px solid red;
+	}
+	.entry {
+		h1 {
+			font-size: 20px;
+			color: blue;
+		} 
+		p {	
+			font-size:12px;
+			margin: 20px;
+			html.csscolumns & {
+			column-count: 2;
+			column-gap: 10px;
+			margin: 10px;
+		}
+	}
+	a {
+		color: red;
+		&:hover {
+			color: green;
+		}
+	}
+	}
+}*/
+/*p{
+  a{
+    color:red;
+  }
+  > a {
+    color: blue;
+    &:hover{
+      opacity: 0.5;
+      }
+    }
+  }*/
+
+/*# sourceMappingURL=main.css.map */
